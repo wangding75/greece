@@ -23,6 +23,8 @@
         <module>greece-module-crm</module>
         <module>greece-module-erp</module>
         <module>greece-module-ai</module>
+
+        <module>greece-deity-plutus</module>
     </modules>
 
     <name>${project.artifactId}</name>
