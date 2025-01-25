@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "yudao.env",
+      "type": "cn.iocoder.yudao.framework.env.config.EnvProperties",
+      "sourceType": "cn.iocoder.yudao.framework.env.config.EnvProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "yudao.env.tag",
+      "type": "java.lang.String",
+      "description": "环境标签",
+      "sourceType": "cn.iocoder.yudao.framework.env.config.EnvProperties"
+    }
+  ],
+  "hints": []
+}
